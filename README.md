@@ -6,6 +6,22 @@ The project is built as a browser extension with a Node.js/Express backend that 
 
 ---
 
+## 🎥 Project Demo
+
+Watch the LiveStocker browser extension in action:
+
+👉 **[View the LiveStocker Demo Video](https://jumpshare.com/folder/IVE0dhKfnUUrO01tl89g)**
+
+The demo showcases:
+
+- 🔎 Searching for stocks
+- 📊 Viewing real-time stock prices
+- ⭐ Adding stocks to the watchlist
+- 📈 Monitoring live price changes
+- 🔄 Receiving real-time updates through WebSockets
+
+---
+
 ## 🚀 Features
 
 ### 🔎 Stock Search
